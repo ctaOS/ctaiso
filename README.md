@@ -1,2 +1,5 @@
 # ctaiso
-archiso template for ctaOS.
+its an archiso template for ctaOS.
+
+# ctaiso
+ctaiso
